@@ -1,0 +1,15 @@
+[debug] Packaging C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\scala-card-game_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	game
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game
+[debug] 	game\Card.class
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game\Card.class
+[debug] 	game\CardGame.class
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game\CardGame.class
+[debug] 	game\Main$.class
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game\Main$.class
+[debug] 	game\Main$delayedInit$body.class
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game\Main$delayedInit$body.class
+[debug] 	game\Main.class
+[debug] 	  C:\Users\Abdul\Documents\scala-projects\scala-card-game\target\scala-2.13\classes\game\Main.class
+[debug] Done packaging.
